@@ -8,3 +8,7 @@ Trained Machine Learning Voice Biometrics Log In System
 ![Image](https://github.com/user-attachments/assets/3f6371e2-6ceb-4062-a2bf-a65c8df04f5c)
 
 ![Image](https://github.com/user-attachments/assets/85f3b299-647a-463f-9f63-3714dffe7b23)
+
+
+THE ENGINEERING TEAM BEHIND THE PROJECT (Signals, Spectra & Signal Processing) ECE 303
+![Image](https://github.com/user-attachments/assets/6aab837a-6894-461f-b850-dcb2a7a462c4)

@@ -10,5 +10,6 @@ Trained Machine Learning Voice Biometrics Log In System
 ![Image](https://github.com/user-attachments/assets/85f3b299-647a-463f-9f63-3714dffe7b23)
 
 
-THE ENGINEERING TEAM BEHIND THE PROJECT (Signals, Spectra & Signal Processing) ECE 303
+THE ENGINEERING TEAM BEHIND THIS PROJECT (Signals, Spectra & Signal Processing) ECE 303
+Professor : ENGR. PAUL RYAN A SANTIAGO
 ![Image](https://github.com/user-attachments/assets/6aab837a-6894-461f-b850-dcb2a7a462c4)
